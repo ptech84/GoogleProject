@@ -1,5 +1,6 @@
 package com.src.google.base;
 
+/* this is a base class*/
 
 import java.io.FileInputStream;
 import java.io.FileNotFoundException;
